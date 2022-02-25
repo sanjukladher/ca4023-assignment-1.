@@ -1,8 +1,8 @@
 # Assignment 1 Part 1
 
-Programming language : Python 3
-No libraries required
-All code is commented
+- Programming language : Python 3
+- No libraries required
+- All code is commented
 
 
 To execute this you first need to create a input_file.txt which contain an example of text given in Part 1
