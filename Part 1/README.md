@@ -4,6 +4,8 @@
 - No libraries required
 - All code is commented
 
+You can run this program with Anaconda jupyter notebook by uploading it or in Google Colab as well.  
+
 
 To execute this you first need to create a input_file.txt which contain an example of text given in Part 1
 
